@@ -1,6 +1,7 @@
 # Crystal-collector
 
 Link: https://rhaniehalim.github.io/Crystal-collector/
+![alt text](http://url/to/preview.png)
 
 Here's how the app works:
 1. There will be four crystals displayed as buttons on the page.
