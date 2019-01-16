@@ -1,4 +1,4 @@
-# Crystal-collector
+# CRYSTAL COLLECTOR
 
 Link: https://rhaniehalim.github.io/Crystal-collector/
 
